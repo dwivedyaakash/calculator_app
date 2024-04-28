@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="clear_text">Clear</string>
+    <string name="error_text_message">Error</string>
+</resources>
